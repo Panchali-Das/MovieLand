@@ -9,7 +9,7 @@ const API_URL = "http://www.omdbapi.com?apikey=f3785577";
 const MyButton = () => {
   return (
     <>
-      <button>log in</button>
+      <button></button>
     </>
   );
 };
